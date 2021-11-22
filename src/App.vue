@@ -2,14 +2,6 @@
   <div id="app">
     <Toolbar />
     <NoteContainer />
-    <div class="note-editor">
-      <textarea class="note-editor-input">
-	          First note...
-
-	          Note text here...
-	        </textarea
-      >
-    </div>
   </div>
 </template>
 
