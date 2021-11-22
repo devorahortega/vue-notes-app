@@ -26,7 +26,6 @@ export default {
   outline: none;
   box-sizing: border-box;
 }
-
 /* LAYOUT */
 #app {
   display: flex;
@@ -72,7 +71,6 @@ export default {
   width: 100%;
   padding: 0 2em 0 2em;
 }
-
 /* COLORS */
 * {
   color: #454545;
@@ -106,7 +104,6 @@ export default {
 .note-editor-info {
   color: #dcdadc;
 }
-
 /* TYPOGRAPHY */
 body {
   font-family: sans-serif;
